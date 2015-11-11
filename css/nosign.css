@@ -1,0 +1,57 @@
+.clear{clear:both;}
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #333333;
+  background-color: #ffffff;
+}
+
+.area_left{
+	margin-left:-100px;
+	float:left;
+	}
+.area_right{
+	float:right;
+	margin:-400px 100px auto auto;
+	border:3px solid skyblue;
+	border-radius:5px;
+	height:360px;
+	width:26%;
+	}
+.container {
+	text-align:center;
+	line-height:40px;
+  margin-right: auto;
+  margin-left: auto;
+  *zoom: 1;
+}
+.form-signin-heading{
+	font-size:28px;}
+
+.input-block-level{
+	height:30px;
+	width:250px;
+	border:1px solid #a3a1a1;
+	border-radius:5px;
+	font-size:14px;
+	box-shadow:2px 2px 2px #c8c8c8;}
+.form-signin span{
+	font-size:14px;
+	font-family:helvetica;
+	color:red;
+	}
+.btn{
+	height:40px;
+	background:skyblue;
+	width:80px;
+	border-radius:5px;
+	border:0px;
+	font-family:helvetica,sans-serif;
+	color:#fff;
+	font-size:18px;
+	margin:0 0.5em;
+	}
+.btn a {text-decoration:none;
+		color:#fff;}
